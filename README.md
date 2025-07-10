@@ -1,16 +1,20 @@
-# chatgame
+# AI Chat Game 🤖💬
 
-A new Flutter project.
+A Flutter-based AI chat game with lobby creation and AI bot interaction.
 
-## Getting Started
+## 📱 APK Download
+👉 [Download APK](https://github.com/<your-username>/chatgame/releases/download/v1.0/app-release.apk)
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Android SDK
+- WebSocket (if applicable)
 
-A few resources to get you started if this is your first Flutter project:
+## 🖇 Architecture
+Client (Flutter App) ↔ WebSocket Server ↔ LLM API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚡ Build & Run
+```bash
+flutter pub get
+flutter run

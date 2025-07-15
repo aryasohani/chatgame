@@ -3,7 +3,7 @@
 A Flutter-based AI chat game with lobby creation and AI bot interaction.
 
 ## 📱 APK Download
-👉 [Download APK](https://github.com/<your-username>/chatgame/releases/download/v1.0/app-release.apk)
+👉 [Download APK](https://drive.google.com/file/d/14ZvMmRLYnuq889S4hu7crnrUf0ByjxC5/view?usp=sharing)
 
 ## 🛠 Tech Stack
 - Flutter
